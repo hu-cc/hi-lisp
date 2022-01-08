@@ -1,0 +1,2 @@
+studying 《Practical Common Lisp》
+
